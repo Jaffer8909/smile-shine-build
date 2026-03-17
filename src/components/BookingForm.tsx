@@ -13,6 +13,10 @@ const treatments = [
   "Dental Implants",
   "Orthodontics / Braces",
   "Oral Surgery",
+  "Veneers / Laminates",
+  "Dental Fillings",
+  "Dentures (Complete / Partial)",
+  "Gum / Periodontal Treatment",
   "General Checkup",
   "Other",
 ];
